@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+aiosqlite
+numpy
+scipy
+onnxruntime; sys_platform != 'win32' or platform_machine != 'AMD64'
+onnxruntime-gpu; sys_platform == 'win32' and platform_machine == 'AMD64'
+huggingface-hub
+langid
+python-multipart
+ebooklib
+beautifulsoup4
+ebook_reader_supertonic

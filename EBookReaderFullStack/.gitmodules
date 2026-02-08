@@ -1,0 +1,3 @@
+[submodule "ReaderAudioEngine"]
+	path = ReaderAudioEngine
+	url = https://github.com/sezer-muhammed/ReaderAudioEngine.git
